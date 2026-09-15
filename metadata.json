@@ -1,0 +1,8 @@
+{
+  "name": "Remix Barbearia Navalha",
+  "description": "Experiência digital e agendamento premium para a Barbearia Navalha em Rio Azul - PR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
